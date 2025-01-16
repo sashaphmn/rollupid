@@ -2,17 +2,17 @@
 
 # Identity management for the private web
 
-![License](https://img.shields.io/github/license/proofzero/rollupid)
+[![License](https://img.shields.io/github/license/proofzero/rollupid)](https://github.com/proofzero/rollupid/blob/main/LICENSE)
 [![Discord](https://img.shields.io/discord/790660849471062046?label=Discord)](https://discord.gg/UgwAsJf6C5)
 
 #### Build Status
 
 ##### Platform
 
-![](https://github.com/proofzero/rollupid/actions/workflows/main-core.yaml/badge.svg)
-![](https://github.com/proofzero/rollupid/actions/workflows/main-galaxy.yaml/badge.svg)
-![](https://github.com/proofzero/rollupid/actions/workflows/main-images.yaml/badge.svg)
-![](https://github.com/proofzero/rollupid/actions/workflows/main-email.yaml/badge.svg)
+[![](https://github.com/proofzero/rollupid/actions/workflows/main-core.yaml/badge.svg)](https://github.com/proofzero/rollupid/actions/workflows/main-core.yaml)
+[![](https://github.com/proofzero/rollupid/actions/workflows/main-galaxy.yaml/badge.svg)](https://github.com/proofzero/rollupid/actions/workflows/main-galaxy.yaml)
+[![](https://github.com/proofzero/rollupid/actions/workflows/main-images.yaml/badge.svg)](https://github.com/proofzero/rollupid/actions/workflows/main-images.yaml)
+[![](https://github.com/proofzero/rollupid/actions/workflows/main-email.yaml/badge.svg)](https://github.com/proofzero/rollupid/actions/workflows/main-email.yaml)
 
 ##### Apps
 
